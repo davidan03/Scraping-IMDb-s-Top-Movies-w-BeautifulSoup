@@ -1,2 +1,2 @@
-# Scraping IMDb's Top Movies w/ BeautifulSoup
+# Scraping-IMDb-Top-Movies-BeautifulSoup
 learning web scraping
